@@ -42,7 +42,7 @@ This is a plugin for Aqua Temp pool heater.
 ```json
 "platforms": [
     {
-        "name": "Aqua Temp Plugin",
+        "platform": "AquaTemp",
         "Username": "[Username]",
         "Password": "[Password]",
         "UpdateTime": 60,
